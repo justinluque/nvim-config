@@ -1,12 +1,12 @@
 return {
   -- add catppuccin
-  { "catppuccin/nvim" },
+  { "AlessandroYorba/Alduin" },
 
   -- Configure LazyVim to load catppuccin
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin",
+      colorscheme = "Alduin",
     },
   },
 }
